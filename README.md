@@ -1,4 +1,4 @@
-# Project Name: Stock Return Prediction and Portfolio Optimization
+# Project: Stock Return Prediction and Portfolio Optimization
 
 **1. Introduction**
    
@@ -30,6 +30,7 @@ To achieve this goal, we carefully planned and carried out the following steps:
 
 
 **4. Tools**
+
 This project requires you to have the following tools installed: Python v3 (https://www.python.org/downloads/)
 
 The following python libraries should be installed:
