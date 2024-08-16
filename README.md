@@ -2,9 +2,9 @@
 
 **1. Introduction**
    
-This project focuses on optimizing stock portfolios of 10 US companies in various industries using various financial theories and machine learning models. The data is collected from WRDS database including Stock Daily Trading dataset and Financial Ratios dataset from 01-01-2022 to 31-12-2023. It includes sections for data pre-processing, processing, machine learning model development, evaluation and selection for later prediction, rolling windows and optimisation strategies for choosing and adjusting portfolio optimal weights.
+This project focuses on optimizing stock portfolios of 10 US companies from various industries by applying financial theories and machine learning models. The data is collected from WRDS database including Stock Daily Trading dataset and Financial Ratios dataset from 01-01-2022 to 31-12-2023. It includes sections for data processing, descriptive analysis, predictive analysis using different machine learning models and one time series model, model evaluation and selection for return prediction, rolling windows and optimisation strategies for choosing and adjusting portfolio optimal weights.
 
-This project in important in real world´s situation for manager or investors in making sotck trading decisions in short-term period and later develop long-term strategies using stock market data. The aim is to develop methodology to calculate and predict optimal stock portfolio with maximum Sharpe Ratio.
+This project is important in real world´s situation for managers or investors in making informed short-term trading decisions and developing long-term strategies based on stock market data. The aim is to develop a methodology for calculating and predicting an optimal stock portfolio that maximizes the Sharpe Ratio.
 
 **2. Step-by-step analysis**
 
